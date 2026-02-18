@@ -3,10 +3,9 @@ import { MapPin, Phone, Mail, Armchair, Wifi, Zap, UserCheck, ChevronLeft, Chevr
 
 // --- IMAGES (Make sure these exist in your public folder!) ---
 const heroImages = [
-  "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053&auto=format&fit=crop", 
-  "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075&auto=format&fit=crop", 
-  "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1974&auto=format&fit=crop", 
-  "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=2070&auto=format&fit=crop"  
+  "/Platinum_Properties/hero1.jpg", 
+  "/Platinum_Properties/hero2.jpg", 
+  "/Platinum_Properties/hero3.jpg"
 ];
 
 // Note: Ensure apt1.jpg, floor1.jpg etc are in your 'public' folder
