@@ -10,8 +10,19 @@ const heroImages = [
 ];
 
 // Note: Ensure apt1.jpg, floor1.jpg etc are in your 'public' folder
-const project1Images = ["/apt1.jpg", "/apt2.jpg", "/apt3.jpg", "/apt4.jpg"]; 
-const project2Images = ["/floor1.jpg", "/floor2.jpg", "/floor3.jpg", "/floor4.jpg"];
+const project1Images = [
+  "/Platinum_Properties/apt1.jpg", 
+  "/Platinum_Properties/apt2.jpg", 
+  "/Platinum_Properties/apt3.jpg", 
+  "/Platinum_Properties/apt4.jpg"
+]; 
+
+const project2Images = [
+  "/Platinum_Properties/floor1.jpg", 
+  "/Platinum_Properties/floor2.jpg", 
+  "/Platinum_Properties/floor3.jpg", 
+  "/Platinum_Properties/floor4.jpg"
+];
 
 const PlatinumProperties = () => {
   const [heroIndex, setHeroIndex] = useState(0);
