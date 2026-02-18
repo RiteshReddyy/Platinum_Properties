@@ -13,7 +13,7 @@ const heroImages = [
 const project1Images = [
   "/Platinum_Properties/apt1.jpg", 
   "/Platinum_Properties/apt2.jpg", 
-  "/Platinum_Properties/apt3.jpg", 
+  "/Platinum_Properties/apt3.jpg",  
   "/Platinum_Properties/apt4.jpg"
 ]; 
 
