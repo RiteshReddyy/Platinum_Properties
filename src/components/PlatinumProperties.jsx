@@ -86,7 +86,10 @@ const PlatinumProperties = () => {
           <div className="grid md:grid-cols-2 gap-16 mb-32 items-center">
             <div className="order-2 md:order-1 space-y-8">
               <h3 className="text-4xl font-serif italic text-[#2C241B]">The Liyan Orchids</h3>
-              <p className="text-[#5D5247] leading-relaxed max-w-md">Located in the heart of HSR Layout. Featuring spacious floor plans, premium fittings, and proximity to the HSR Club.</p>
+              <p className="text-[#5D5247] leading-relaxed max-w-md">LLocated in the heart of HSR Layout, The Liyan Orchids offers a refined boutique hotel experience. 
+                Our executive suites feature premium Italian marble finishes and custom furnishings. 
+                Perfectly situated near the vibrant HSR Club,we provide a serene 
+                oasis for guests seeking comfort in Bangalore.</p>
               <div className="grid grid-cols-2 gap-6 text-sm text-[#4A4036] border-t border-[#BCAAA4] pt-6">
                 <div className="flex items-center gap-2"><Briefcase size={16}/> Executive Suites</div>
                 <div className="flex items-center gap-2"><Wifi size={16}/> High-Speed Wi-Fi</div>
